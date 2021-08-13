@@ -9,6 +9,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://discordapp.com/users/818568429321322507">
+        <img src="https://discord.c99.nl/widget/theme-4/818568429321322507.png" alt="red.#7353" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
