@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Bokkieboy&label=Profile%20views&color=0e75b6&style=flat" alt="h4xton" /> </p>
 
-<p align="center"> - 🔭 I’m currently working on Faceit and HvH Cheat</p>
+<p align="center"> - 🔭 I’m currently at University studying Computer Network and Security</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
