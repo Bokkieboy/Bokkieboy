@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bokkie</h1>
-<h3 align="center">CSGO Developer</h3>
-<h3 align="center">https://bokkie.co.uk</h3>
+<h1 align="center">Hi 👋, I'm Rhys</h1>
+<h3 align="center">Netowrk Engineer</h3>
+<h3 align="center">https://claritynetworking.co.uk</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Bokkieboy&label=Profile%20views&color=0e75b6&style=flat" alt="h4xton" /> </p>
 
