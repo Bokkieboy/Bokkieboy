@@ -10,7 +10,6 @@
 <p align="center">
     <a href="https://discordapp.com/users/818568429321322507">
         <img src="https://discord.c99.nl/widget/theme-2/812358258908069888.png" alt="red.#7353" />
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank">
